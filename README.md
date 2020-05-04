@@ -1,6 +1,7 @@
 # Capstone1
 data downloaded from: https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
-and data scrubbed from: https://en.wikipedia.org/wiki/Template:COVID-19_pandemic_lockdowns
+
+data scrubbed from: https://en.wikipedia.org/wiki/Template:COVID-19_pandemic_lockdowns
 
 
 Proposal:
